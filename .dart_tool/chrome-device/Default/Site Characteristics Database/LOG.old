@@ -1,0 +1,4 @@
+2024/06/16-10:54:38.351 10f0 Reusing MANIFEST C:\Users\VAL\AppData\Local\Temp\flutter_tools.778973b3\flutter_tools_chrome_device.51b10b8f\Default\Site Characteristics Database/MANIFEST-000001
+2024/06/16-10:54:38.352 10f0 Recovering log #3
+2024/06/16-10:54:38.353 10f0 (ignoring error) C:\Users\VAL\AppData\Local\Temp\flutter_tools.778973b3\flutter_tools_chrome_device.51b10b8f\Default\Site Characteristics Database/000003.log: dropping 614 bytes; Corruption: checksum mismatch
+2024/06/16-10:54:38.353 10f0 Reusing old log C:\Users\VAL\AppData\Local\Temp\flutter_tools.778973b3\flutter_tools_chrome_device.51b10b8f\Default\Site Characteristics Database/000003.log 
